@@ -1,0 +1,6 @@
+kafka-python
+pymongo
+python-dotenv
+dash
+plotly
+pandas
